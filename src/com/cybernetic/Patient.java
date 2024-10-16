@@ -1,9 +1,6 @@
 package com.cybernetic;
 
 
-import lombok.Data;
-
-@Data
 public class Patient {
     private String id;
     private String name;
@@ -17,5 +14,15 @@ public class Patient {
         this.bloodType = bloodType;
         this.weight = weight;
         this.hlaType = hlaType;
+    }
+
+    public String getId(){return id;}
+    public String getName(){return name;}
+    public String getBloodType() {
+        return bloodType;
+    }
+    public String getHlaType(){return hlaType;}
+    public int getWeight(){
+        return weight;
     }
 }

@@ -52,7 +52,7 @@ public class Main {
         });
 
         Patient patient = patients.get(0);
-        System.out.println("\nTop 3 Compatible Organs for: "+patient.getName());
+        System.out.println("\nTop 3 Compatible Organs for: "+ patient.getName());
         List<Organ> topOrgans = system.getTopCompatibleOrgans(patient, 3);
         for (int i = 0; i < topOrgans.size(); i++) {
             Organ organ = topOrgans.get(i);
