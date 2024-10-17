@@ -1,4 +1,4 @@
-package com.cybernetic;
+package main.java.com.cybernetic;
 
 import java.util.UUID;
 

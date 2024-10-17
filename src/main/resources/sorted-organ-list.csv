@@ -1,0 +1,171 @@
+Model,Name,Functionality,Compatibility
+Arm,CyberArmG7,Enhanced strength,Universal
+Arm,CyberArmG7,Enhanced strength,Universal
+Arm,CyberArmG7,Enhanced strength,Universal
+Arm,CyberArmG7,Enhanced strength,Universal
+Arm,CyberArmP2,Precision grip,Type A
+Arm,CyberArmP2,Precision grip,Type A
+Arm,CyberArmP2,Precision grip,Type A
+Arm,CyberArmP2,Precision grip,Type A
+Arm,CyberArmP2,Precision grip,Type O
+Arm,CyberArmX10,Multi-tool integration,Type A
+Arm,CyberArmX11,Multi-tool integration,Type B
+Arm,CyberArmX12,Multi-tool integration,Type O
+Arm,CyberArmX13,Multi-tool integration,Type B
+Arm,CyberArmX5,Multi-tool integration,Type B
+Arm,CyberArmX6,Multi-tool integration,Type A
+Arm,CyberArmX7,Multi-tool integration,Type O
+Arm,CyberArmX8,Multi-tool integration,Type B
+Arm,CyberArmX9,Multi-tool integration,Type O
+Brain,CyberBrainN1,Neural enhancement,Type A
+Brain,CyberBrainN1,Neural enhancement,Type A
+Brain,CyberBrainN1,Neural enhancement,Type A
+Brain,CyberBrainN1,Neural enhancement,Type A
+Brain,CyberBrainX10,AI integration,Type B
+Brain,CyberBrainX11,AI integration,Type O
+Brain,CyberBrainX3,AI integration,Type O
+Brain,CyberBrainX4,AI integration,Type A
+Brain,CyberBrainX5,AI integration,Type B
+Brain,CyberBrainX6,AI integration,Type A
+Brain,CyberBrainX7,AI integration,Type O
+Brain,CyberBrainX8,AI integration,Type B
+Brain,CyberBrainX9,AI integration,Type A
+Brain,CyberBrainZ2,Memory boost,Type AB
+Brain,CyberBrainZ2,Memory boost,Type AB
+Brain,CyberBrainZ2,Memory boost,Type AB
+Brain,CyberBrainZ2,Memory boost,Type AB
+Ear,CyberEarC3,Enhanced hearing,Type O
+Ear,CyberEarC3,Enhanced hearing,Type O
+Ear,CyberEarC3,Enhanced hearing,Type O
+Ear,CyberEarC3,Enhanced hearing,Type O
+Ear,CyberEarX5,Directional hearing,Type AB
+Ear,CyberEarX5,Directional hearing,Type AB
+Ear,CyberEarX5,Directional hearing,Type AB
+Ear,CyberEarX5,Directional hearing,Type AB
+Ear,CyberEarY10,Noise cancellation,Type B
+Ear,CyberEarY2,Noise cancellation,Type B
+Ear,CyberEarY3,Noise cancellation,Type O
+Ear,CyberEarY4,Noise cancellation,Type A
+Ear,CyberEarY5,Noise cancellation,Type B
+Ear,CyberEarY6,Noise cancellation,Type O
+Ear,CyberEarY7,Noise cancellation,Type B
+Ear,CyberEarY8,Noise cancellation,Type A
+Ear,CyberEarY9,Noise cancellation,Type O
+Eye,CyberEyeV2,Enhanced vision,Type A
+Eye,CyberEyeV2,Enhanced vision,Type A
+Eye,CyberEyeV2,Enhanced vision,Type A
+Eye,CyberEyeX1,Night vision,Universal
+Eye,CyberEyeX1,Night vision,Universal
+Eye,CyberEyeX1,Night vision,Universal
+Eye,CyberEyeX1,Night vision,Universal
+Eye,CyberEyeY10,Infrared vision,Type B
+Eye,CyberEyeY11,Infrared vision,Type A
+Eye,CyberEyeY3,Infrared vision,Type AB
+Eye,CyberEyeY4,Infrared vision,Type O
+Eye,CyberEyeY5,Infrared vision,Type B
+Eye,CyberEyeY6,Infrared vision,Type B
+Eye,CyberEyeY7,Infrared vision,Type A
+Eye,CyberEyeY8,Infrared vision,Type O
+Eye,CyberEyeY9,Infrared vision,Type B
+Heart,CyberHeartX1,Pumps blood,Type O
+Heart,CyberHeartX1,Pumps blood,Type O
+Heart,CyberHeartX1,Pumps blood,Type O
+Heart,CyberHeartX1,Pumps blood,Type O
+Heart,CyberHeartY2,Pumps blood,Type A
+Heart,CyberHeartY2,Pumps blood,Type A
+Heart,CyberHeartY2,Pumps blood,Type A
+Heart,CyberHeartY2,Pumps blood,Type A
+Heart,CyberHeartZ10,Advanced circulation,Type A
+Heart,CyberHeartZ11,Advanced circulation,Type B
+Heart,CyberHeartZ3,Advanced circulation,Type B
+Heart,CyberHeartZ4,Advanced circulation,Type AB
+Heart,CyberHeartZ5,Advanced circulation,Type O
+Heart,CyberHeartZ6,Advanced circulation,Type A
+Heart,CyberHeartZ7,Advanced circulation,Type O
+Heart,CyberHeartZ8,Advanced circulation,Type B
+Heart,CyberHeartZ9,Advanced circulation,Type O
+Kidney,CyberKidneyX4,Regulates electrolytes,Type AB
+Kidney,CyberKidneyX4,Regulates electrolytes,Type AB
+Kidney,CyberKidneyX4,Regulates electrolytes,Type AB
+Kidney,CyberKidneyX4,Regulates electrolytes,Type AB
+Kidney,CyberKidneyY5,Toxin filtration,Type O
+Kidney,CyberKidneyY5,Toxin filtration,Type O
+Kidney,CyberKidneyY5,Toxin filtration,Type O
+Kidney,CyberKidneyY5,Toxin filtration,Type O
+Kidney,CyberKidneyY5,Toxin filtration,Type O
+Kidney,CyberKidneyZ1,Advanced filtration,Type O
+Kidney,CyberKidneyZ2,Advanced filtration,Type B
+Kidney,CyberKidneyZ3,Advanced filtration,Type A
+Kidney,CyberKidneyZ4,Advanced filtration,Type B
+Kidney,CyberKidneyZ5,Advanced filtration,Type A
+Kidney,CyberKidneyZ6,Advanced filtration,Type B
+Kidney,CyberKidneyZ7,Advanced filtration,Type O
+Kidney,CyberKidneyZ8,Advanced filtration,Type B
+Kidney,CyberKidneyZ9,Advanced filtration,Type A
+Leg,CyberLegM6,Speed enhancement,Type O
+Leg,CyberLegM6,Speed enhancement,Type O
+Leg,CyberLegM6,Speed enhancement,Type O
+Leg,CyberLegM6,Speed enhancement,Type O
+Leg,CyberLegX9,Enhanced mobility,Type B
+Leg,CyberLegX9,Enhanced mobility,Type B
+Leg,CyberLegX9,Enhanced mobility,Type B
+Leg,CyberLegX9,Enhanced mobility,Type B
+Leg,CyberLegZ10,Jump enhancement,Type O
+Leg,CyberLegZ11,Jump enhancement,Type B
+Leg,CyberLegZ12,Jump enhancement,Type A
+Leg,CyberLegZ13,Jump enhancement,Type O
+Leg,CyberLegZ14,Jump enhancement,Type O
+Leg,CyberLegZ15,Jump enhancement,Type B
+Leg,CyberLegZ7,Jump enhancement,Type A
+Leg,CyberLegZ8,Jump enhancement,Type B
+Leg,CyberLegZ9,Jump enhancement,Type O
+Liver,CyberLiverA5,Detoxifies blood,Type O
+Liver,CyberLiverA5,Detoxifies blood,Type O
+Liver,CyberLiverA5,Detoxifies blood,Type O
+Liver,CyberLiverA5,Detoxifies blood,Type O
+Liver,CyberLiverQ4,Regulates enzymes,Type B
+Liver,CyberLiverQ4,Regulates enzymes,Type B
+Liver,CyberLiverQ4,Regulates enzymes,Type B
+Liver,CyberLiverQ4,Regulates enzymes,Type B
+Liver,CyberLiverX10,Enhanced metabolism,Type A
+Liver,CyberLiverX11,Enhanced metabolism,Type B
+Liver,CyberLiverX12,Enhanced metabolism,Type O
+Liver,CyberLiverX13,Enhanced metabolism,Type B
+Liver,CyberLiverX14,Enhanced metabolism,Type A
+Liver,CyberLiverX15,Enhanced metabolism,Type O
+Liver,CyberLiverX7,Enhanced metabolism,Type AB
+Liver,CyberLiverX8,Enhanced metabolism,Type A
+Liver,CyberLiverX9,Enhanced metabolism,Type O
+Lung,CyberLungV8,Increased oxygen intake,Type AB
+Lung,CyberLungV8,Increased oxygen intake,Type AB
+Lung,CyberLungV8,Increased oxygen intake,Type AB
+Lung,CyberLungV8,Increased oxygen intake,Type AB
+Lung,CyberLungY10,Pollution filtration,Type O
+Lung,CyberLungY11,Pollution filtration,Type B
+Lung,CyberLungY12,Pollution filtration,Type A
+Lung,CyberLungY13,Pollution filtration,Type B
+Lung,CyberLungY5,Pollution filtration,Type A
+Lung,CyberLungY6,Pollution filtration,Type B
+Lung,CyberLungY7,Pollution filtration,Type O
+Lung,CyberLungY8,Pollution filtration,Type B
+Lung,CyberLungY9,Pollution filtration,Type A
+Lung,CyberLungZ3,Filters air,Type B
+Lung,CyberLungZ3,Filters air,Type B
+Lung,CyberLungZ3,Filters air,Type B
+Skin,CyberSkinD2,Temperature regulation,Universal
+Skin,CyberSkinD2,Temperature regulation,Universal
+Skin,CyberSkinD2,Temperature regulation,Universal
+Skin,CyberSkinD2,Temperature regulation,Universal
+Skin,CyberSkinF4,Shock absorption,Type B
+Skin,CyberSkinF4,Shock absorption,Type B
+Skin,CyberSkinF4,Shock absorption,Type B
+Skin,CyberSkinF4,Shock absorption,Type B
+Skin,CyberSkinX1,Waterproof,Universal
+Skin,CyberSkinX2,Waterproof,Type A
+Skin,CyberSkinX3,Waterproof,Type B
+Skin,CyberSkinX4,Waterproof,Type O
+Skin,CyberSkinX5,Waterproof,Type B
+Skin,CyberSkinX6,Waterproof,Type A
+Skin,CyberSkinX7,Waterproof,Type O
+Skin,CyberSkinX8,Waterproof,Type B
+Skin,CyberSkinX9,Waterproof,Type A
