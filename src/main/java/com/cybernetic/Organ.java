@@ -16,4 +16,8 @@ class Organ {
         this.weight = weight;
         this.hlaType = hlaType;
     }
+
+    public String getName() {
+        return name;
+    }
 }

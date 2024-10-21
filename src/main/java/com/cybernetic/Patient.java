@@ -18,4 +18,12 @@ public class Patient {
         this.weight = weight;
         this.hlaType = hlaType;
     }
+
+    public Object getId() {
+        return id;
+    }
+
+    public String getName() {
+        return name;
+    }
 }
