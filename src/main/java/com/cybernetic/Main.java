@@ -48,14 +48,16 @@ public class Main {
         OrganCompatibilityAnalyzer analyzer = new OrganCompatibilityAnalyzer();
 
         // Match organ to waiting list
-        System.out.println("\nMatching "+cyberHeart.getName()+" to Waiting List:");
+        System.out.println("\nMatching " + cyberHeart.getName() + " to Waiting List:");
         Patient matchedPatient = analyzer.findCompatiblePatient(cyberHeart, waitingList);
         if (matchedPatient != null) {
             int priority = waitingList.getPosition(matchedPatient.getId());
-            System.out.println("Compatible patient found: " + matchedPatient.getName() +
-                    " (Priority: " + priority + ")");
+            System.out.println("Compatible patient found: " + matchedPatient.getName() + " (Priority: " + priority + ")");
         } else {
             System.out.println("No compatible patient found in the waiting list.");
+            System.out.println("Due to the calculateWeightCompatibility method always returning false \n( " +
+                    " Organ Weight / Patient Weight in grams => 350g/70,000g = .005 organ-to-patient weight ratio \nwill " +
+                    " be less than 0.6.). Therefore IsCompatible method will also return false.This not being able to \n find a compatible patient aka John Doe");
         }
 
         //after matchingPatient is found, remove the patient from the waiting list
