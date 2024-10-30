@@ -31,6 +31,14 @@ public class Patient {
     }
 
     public String removeMostRecentEvent() {
-            return this.history.removeMostRecentEvent();
+        return this.history.removeMostRecentEvent();
+    }
+
+    public PatientHistory getHistory() {
+        return history;
+    }
+
+    public String getName() {
+        return name;
     }
 }

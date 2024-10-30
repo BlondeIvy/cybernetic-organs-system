@@ -19,4 +19,7 @@ class Organ {
         this.hlaType = hlaType;
     }
 
+    public String getName() {
+        return name;
+    }
 }
