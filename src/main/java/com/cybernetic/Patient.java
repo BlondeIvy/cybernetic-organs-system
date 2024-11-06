@@ -28,4 +28,8 @@ public class Patient {
     public Map<String, Double> getAllMeasurements() {
         return new HashMap<>(measurements);
     }
+
+    public String getName() {
+        return name;
+    }
 }

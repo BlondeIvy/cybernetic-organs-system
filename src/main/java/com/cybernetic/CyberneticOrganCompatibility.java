@@ -12,19 +12,31 @@ public class CyberneticOrganCompatibility {
         this.incompatibilityReasons = new ArrayList<>();
     }
 
-    public boolean isCompatible(Patient patient,
-                                CyberneticOrgan organ,
-                                DiagnosticDecisionTree diagnosticTree) {
+    public boolean isCompatible(Patient patient, CyberneticOrgan organ, DiagnosticDecisionTree diagnosticTree) {
 
         incompatibilityReasons.clear();
         boolean isCompatible = true;
 
-        //TODO:  Step 1: Get patient measurements and organ requirements
+        Map<String, Double> measurements = patient.getAllMeasurements();
+        Map<String, CyberneticOrgan.Range> requirements = organ.getRequirements();
 
-        //TODO: Step 2: Run diagnostic tree analysis
+        String diagnosis = diagnosticTree.diagnosePatient(measurements);
+        if (!"Compatible".equals(diagnosis)) {
+            incompatibilityReasons.add("Diagnostic Tree Result: " + diagnosis);
+            isCompatible = false;
+        }
 
-        //TODO: Step 3: Check each measurement against organ requirements
+        for (Map.Entry<String, CyberneticOrgan.Range> requirement : requirements.entrySet()) {
+            String measurementType = requirement.getKey();
+            Double value = measurements.get(measurementType);
+            CyberneticOrgan.Range range = requirement.getValue();
 
+            if (value == null || value < range.min || value > range.max) {
+                incompatibilityReasons.add(String.format("%s out of range: %.2f (required: %.2f - %.2f)",
+                        measurementType, value != null ? value : 0.0, range.min, range.max));
+                isCompatible = false;
+            }
+        }
         return isCompatible;
     }
 

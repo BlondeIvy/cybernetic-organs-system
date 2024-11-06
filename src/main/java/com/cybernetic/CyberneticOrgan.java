@@ -26,6 +26,10 @@ public class CyberneticOrgan {
         return new HashMap<>(requirementRanges);
     }
 
+    public String getType() {
+        return type;
+    }
+
     static class Range {
         double min;
         double max;

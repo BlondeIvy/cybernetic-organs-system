@@ -10,5 +10,8 @@ public class DiagnosticNode {
     public DiagnosticNode(String measurementType, double thresholdValue) {
         this.measurementType = measurementType;
         this.thresholdValue = thresholdValue;
+        this.diagnosis = null;
+        this.left = null;
+        this.right = null;
     }
 }
